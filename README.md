@@ -11,6 +11,8 @@
 
 ## 👋 Hakkımda
 
+<img align="right" src="assets/avatar-green.jpg" width="145" alt="Emre'nin yeşil arka planlı robot maskotu" />
+
 **Merhaba, ben Emre.** Mekatronik mühendisiyim; robotik sistemler, gömülü yazılım ve insan–makine etkileşimi üzerine çalışıyorum. Bir fikrin devreye, kodun harekete ve ölçümün anlamlı bir sonuca dönüşmesini seviyorum.
 
 🎓 **Sakarya Uygulamalı Bilimler Üniversitesi** — Mekatronik Mühendisliği yüksek lisans çalışmalarımda biyolojik sinyaller, sinyal işleme ve yapay zekâ destekli analizle ilgileniyorum.
@@ -54,6 +56,10 @@ Sensörler, akıllı sistemler ve öğrencilerle uygulamalı mühendislik.
 
 ## 🚀 Mühendislikten uygulamaya
 
+![İnsan eli, robot eli ve biyolojik sinyallerden robotik sistemlere uzanan yeşil keşif dünyası](assets/human-machine.jpg)
+
+<p align="center"><em>Bir sinyalden bir harekete. Bir fikirden çalışan bir sisteme.</em></p>
+
 | Proje | Keşif alanı |
 | --- | --- |
 | [👁️ EOG tabanlı mobil robot](https://github.com/emredemiroz1/EOG-based-mobile-robot) | Biyolojik sinyallerle insan–makine etkileşimi |
@@ -64,6 +70,8 @@ Sensörler, akıllı sistemler ve öğrencilerle uygulamalı mühendislik.
 📄 **Akademik çalışmalarımdan:** [HoReCa Sektörü için Doğal Navigasyon Otonom Mobil Servis Robotu: komiBot](https://dergipark.org.tr/tr/pub/joinssr/issue/80952/1387566)
 
 ## 🌈 Mucit Atölyesi
+
+<a href="https://github.com/emredemiroz1/Mucit-Akademisi-Dersler#readme"><img src="assets/mucit-workshop.jpg" alt="Robotun küçük bir araç inşa ettiği, kitaplar ve ışıklı devrelerle dolu Mucit Atölyesi" width="100%" /></a>
 
 **Hoş geldin küçük mucit!** GitHub, projelerimizi ve kodlarımızı paylaştığımız bir çalışma alanı. Buradaki ders sayfalarını bir dijital kitap gibi okuyabilirsin. Başlamak için bir kapı seç:
 
